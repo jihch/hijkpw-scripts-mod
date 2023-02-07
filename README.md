@@ -40,7 +40,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/ma
 
 hostip修改版
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts-mod/main/v2ray_mod1.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/jihch/hijkpw-scripts-mod/main/v2ray_mod1.sh)
 ```
 
 hostip去除版
